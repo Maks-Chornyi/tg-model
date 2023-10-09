@@ -1,4 +1,4 @@
-package com.makschornyi.olx;
+package com.makschornyi.olx.model;
 
 import lombok.Data;
 
